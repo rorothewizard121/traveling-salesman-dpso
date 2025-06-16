@@ -25,3 +25,7 @@ Implementation of a Discrete Particle Swarm Optimization Algorithm for the Trave
 - Visualization with plotting
 - CSV export for logging and analysis
 - Parallelization of particle updates
+
+## Acknowledgements: 
+This project uses benchmark instances from [TSPLIB](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/), a library of sample instances for the Traveling Salesman Problem and related problems.
+
